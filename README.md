@@ -10,6 +10,6 @@ I'm a Software Crafter and Software Development Coach.
 ## My latest Content is
 
 - [Peeling an Onion, a blog about Outside-In Design and TDD](https://gregorriegler.com/2020/11/30/peeling-an-onion.html)
-- [Levels of Modularity, a blog on a model to reason about Software Architecture](https://gregorriegler.com/2020/08/08/levels-of-modularity.html)
+- [Levels of Modularity, a model to reason about Software Architecture](https://gregorriegler.com/2020/08/08/levels-of-modularity.html)
 - [Outside-In TDD a Consumer, taking TDD across boundaries using Consumer Driven Contracts](https://gregorriegler.com/2020/05/11/outside-in-tdd-a-consumer.html)
 - [Inverting framework dependencies, a video about how to achieve faster tests by not depending on the framework](https://www.youtube.com/watch?v=lflxK7pksHY)
