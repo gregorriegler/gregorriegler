@@ -5,7 +5,7 @@ I’m a Software Development Coach and Crafter on a lifelong journey to learn be
 - Sometimes I [blog](https://gregorriegler.com/blog), and I also did a [refactoring video series](https://www.youtube.com/channel/UCsWg_i6X4KMhjD2CRqCJLdg).
 - I'm employed at [ebcont](https://www.ebcont.com/) where I facilitate regular daylong Coding Dojos as described in my latest [blog](https://gregorriegler.com/2022/01/07/running-a-company-coding-dojo.html).
 - I love opensource and help improve [mob.sh](https://github.com/remotemobprogramming/mob). 
-- I usually join and sometimes organize Viennas Zero Overhead Coderetreats at [SwkWien](https://www.softwerkskammer.org/groups/wien).
+- I'm a regular at Viennas Zero Overhead Coderetreats at [SwkWien](https://www.softwerkskammer.org/groups/wien).
 - You can find me on Twitter [@gregor_riegler](https://twitter.com/gregor_riegler).
 
 
