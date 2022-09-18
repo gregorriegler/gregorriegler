@@ -1,7 +1,7 @@
 ### Hi, I'm Gregor 👋
 
 I’m a Software Development Coach and Crafter - on a lifelong journey to learn better ways to develop quality software. 
-I like to practice with friends and share what I learned. 
+I like to practice with friends and share what I've learned. 
 My goal is to help people find joy in their work by becoming better at developing software.
 
 - Sometimes I [blog](https://gregorriegler.com/blog), and I also did a [refactoring video series](https://www.youtube.com/channel/UCsWg_i6X4KMhjD2CRqCJLdg).
