@@ -13,6 +13,7 @@ My goal is to help people find joy in their work and become better at developing
 
 ## My latest Content is
 
+- [Solo Programming Considered Harmful](http://gregorriegler.com/2023/01/30/solo-programming-considered-bad.html)
 - [Getting better at CI](http://gregorriegler.com/2022/07/21/Getting-better-at-CI.html)
 - [Running a Company Coding Dojo](http://gregorriegler.com/2022/01/07/running-a-company-coding-dojo.html)
 - [Expense Report Refactoring Kata Video Series](https://www.youtube.com/watch?v=DS_940tXMXQ&list=PLITEvpe_3xfdicT0Yobk_xtSTfrCElQes)
