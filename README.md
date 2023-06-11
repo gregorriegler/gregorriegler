@@ -1,8 +1,8 @@
 ### Hi, I'm Gregor 👋
 
-I’m a Software Development Coach and Crafter - on a lifelong journey to learn better ways to develop quality software. 
-I like to practice with friends and share what I've learned. 
-My goal is to help people find joy in their work and become better at developing software.
+I'm a Technical Coach and Crafter who is constantly learning. 
+I enjoy practicing with peers and sharing my knowledge with others. 
+My objective is to assist individuals and teams in finding joy in their work and improving their software development skills.
 
 - Sometimes I [blog](https://gregorriegler.com/blog), and I also did a [refactoring video series](https://www.youtube.com/channel/UCsWg_i6X4KMhjD2CRqCJLdg).
 - I'm employed at [ebcont](https://www.ebcont.com/) where I facilitate regular daylong Coding Dojos as described in my latest [blog](https://gregorriegler.com/2022/01/07/running-a-company-coding-dojo.html).
