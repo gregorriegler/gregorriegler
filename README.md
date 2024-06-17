@@ -5,6 +5,7 @@ I enjoy practicing with peers and sharing my knowledge with others.
 My objective is to assist individuals and teams in finding joy in their work and improving their software development skills.
 
 - Sometimes I [blog](https://gregorriegler.com/blog), and I also did a [refactoring video series](https://www.youtube.com/channel/UCsWg_i6X4KMhjD2CRqCJLdg).
+- I am employed as a Principal Software Engineer at [Tricentis](http://www.tricentis.com)
 - I'm a member of the [Samman Technical Coaching Society](https://sammancoaching.org/).
 - I maintain [mob.sh](https://github.com/remotemobprogramming/mob).
 - I host a weekly public [Mob Programming](https://github.com/gregorriegler/mob-programming-rpg). Join us!
