@@ -1,6 +1,6 @@
 ### Hi, I'm Gregor 👋
 
-I'm a Technical Coach and Crafter who is constantly learning. 
+I'm a Technical Coach and Crafter and I love learning. 
 I enjoy practicing with peers and sharing my knowledge with others. 
 My objective is to assist individuals and teams in finding joy in their work and improving their software development skills.
 
